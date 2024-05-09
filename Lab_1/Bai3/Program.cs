@@ -34,14 +34,18 @@ namespace Bai3
                 Console.WriteLine("Bạn vui lòng nhập số trong khoảng 0 đến 99 !");
                 goto loop;
             }
-            int chuSoHangChuc = soNhap / 10; // lấy ra chữ số hàng chục
-            int chuSoHangDonVi = soNhap % 10; // lấy ra chữ số hàng đơn vị
-
+            /*  int chuSoHangChuc = soNhap / 10; // lấy ra chữ số hàng chục
+              int chuSoHangDonVi = soNhap % 10; // lấy ra chữ số hàng đơn vị
+            */
+            string test = "";
             string cachDoc = "";
-            switch ((number)chuSoHangChuc)
+          /*  switch ((number)soNhap)
             {
-                case number.Khong: break;
+                case number.Khong:
+                    cachDoc += "Không"
+                    break;
                 case number.Mot:
+
                     cachDoc += "Mười";
                     break;
                 case number.Hai:
@@ -72,15 +76,14 @@ namespace Bai3
                     Console.WriteLine("ERROR !");
                     break;
 
-            }
+            } */
 
-            switch ((number)chuSoHangDonVi)
+            switch ((number)soNhap)
             {
                 case number.Khong:
-                    if (chuSoHangChuc == 0)
-                    {
+                  
                         cachDoc += "Không";
-                    }
+                    
                     break;
                 case number.Mot:
                     cachDoc += " Một";
@@ -110,7 +113,7 @@ namespace Bai3
                     cachDoc += " Chín";
                     break;
 
-            }
+            } 
             Console.Write("Cách đọc số {0} là : {1} ", soNhap, cachDoc);
             Console.ReadLine();
         }
