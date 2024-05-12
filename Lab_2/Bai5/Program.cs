@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Runtime.Serialization.Formatters;
 using System.Text;
 using System.Threading.Tasks;
 
@@ -8,39 +9,32 @@ namespace Bai5
 {
     internal class Program
     {
+        /*
+         * Coder by DucSunIT
+         */
         static void Main(string[] args)
         {
             Console.OutputEncoding = Encoding.UTF8;
-            double a, b, c;
-            Console.WriteLine("Nhập cạnh 1: ");
-            a = double.Parse(Console.ReadLine());
-            Console.WriteLine("Nhập cạnh 2: ");
-            b = double.Parse(Console.ReadLine());
-            Console.WriteLine("Nhập cạnh 3: ");
-            c = double.Parse(Console.ReadLine());
+            int n;
+            Console.Write("Enter the value of n : ");
+            n = int.Parse(Console.ReadLine());
+            long[] fibo = new long[101];
+            fibo[0] = 0; // số fibo đầu tiên
+            fibo[1] = 1; // số fibo thứ hai
 
-            if((a>0) && (b>0) && (c>0) && (a+b>c) &&(a+c>b) && (b + c > a))
+            // tính các số fibo lưu vào mảng 
+            for(int i=2; i<=92; i++)
             {
-                if((a*a + b*b == c*c) || (a*a + c*c ==b*b) || (b*b + c * c == a * a))
-                {
-                    Console.WriteLine("Tam giác vuông");
-                }else if(a==b && b == c)
-                {
-                    Console.WriteLine("Tam giác đều");
-                }else if(a==b || b==c || a == c)
-                {
-                    Console.WriteLine("Tam giác cân");
-                }
-                else
-                {
-                    Console.WriteLine("Tam giác thường");
-                }
+                fibo[i] = fibo[i - 1] + fibo[i - 2];
             }
-            else
+
+            // in các số fibo
+            for(int i=0; i< n; i++)
             {
-                Console.WriteLine("Ba cạnh nhập vào không phải tam giác !");
+                Console.Write(fibo[i] + " ");
             }
             Console.ReadLine();
+
         }
     }
 }
