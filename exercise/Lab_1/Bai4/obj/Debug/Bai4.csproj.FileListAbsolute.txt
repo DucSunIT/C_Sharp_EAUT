@@ -1,7 +1,0 @@
-D:\C#\Bai$\bin\Debug\Bai$.exe.config
-D:\C#\Bai$\bin\Debug\Bai$.exe
-D:\C#\Bai$\bin\Debug\Bai$.pdb
-D:\C#\Bai$\obj\Debug\Bai4.csproj.AssemblyReference.cache
-D:\C#\Bai$\obj\Debug\Bai4.csproj.CoreCompileInputs.cache
-D:\C#\Bai$\obj\Debug\Bai$.exe
-D:\C#\Bai$\obj\Debug\Bai$.pdb

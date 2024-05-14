@@ -1,0 +1,10 @@
+D:\C#\lythuyet\WindowsForm\Bai6.1-Music\bin\Debug\Bai6.1-Music.exe.config
+D:\C#\lythuyet\WindowsForm\Bai6.1-Music\bin\Debug\Bai6.1-Music.exe
+D:\C#\lythuyet\WindowsForm\Bai6.1-Music\bin\Debug\Bai6.1-Music.pdb
+D:\C#\lythuyet\WindowsForm\Bai6.1-Music\obj\Debug\Bai6.1-Music.csproj.AssemblyReference.cache
+D:\C#\lythuyet\WindowsForm\Bai6.1-Music\obj\Debug\Bai6._1_Music.frmNgheNhac.resources
+D:\C#\lythuyet\WindowsForm\Bai6.1-Music\obj\Debug\Bai6._1_Music.Properties.Resources.resources
+D:\C#\lythuyet\WindowsForm\Bai6.1-Music\obj\Debug\Bai6.1-Music.csproj.GenerateResource.cache
+D:\C#\lythuyet\WindowsForm\Bai6.1-Music\obj\Debug\Bai6.1-Music.csproj.CoreCompileInputs.cache
+D:\C#\lythuyet\WindowsForm\Bai6.1-Music\obj\Debug\Bai6.1-Music.exe
+D:\C#\lythuyet\WindowsForm\Bai6.1-Music\obj\Debug\Bai6.1-Music.pdb

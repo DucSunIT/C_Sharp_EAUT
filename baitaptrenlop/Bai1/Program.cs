@@ -28,18 +28,18 @@ namespace Bai1
                 diemTin = int.Parse(Console.ReadLine());
                 Console.Write("Nhập điểm anh : ");
                 diemAnh = int.Parse(Console.ReadLine());
-                if ((diemToan <= 0 || diemToan >= 10) && (diemTin <= 0 || diemTin >= 10) && (diemAnh <= 0 || diemAnh >= 10))
+                if ((diemToan < 0 || diemToan > 10) || (diemTin < 0 || diemTin > 10) || (diemAnh < 0 || diemAnh > 10))
                 {
-                    Console.WriteLine("Các điểm phải lớn hơn 0 và nhỏ hơn 10 !");
+                    Console.WriteLine(">> Các điểm phải lớn hơn 0 và nhỏ hơn 10 !");
                 }
-            } while ((diemToan <= 0 || diemToan >= 10) && (diemTin <= 0 || diemTin >= 10) && (diemAnh <= 0 || diemAnh >= 10));
+            } while ((diemToan < 0 || diemToan > 10) || (diemTin < 0 || diemTin > 10) || (diemAnh < 0 || diemAnh > 10));
             Console.WriteLine("-------------------------------");
-            Console.WriteLine("Họ tên : " + hoTen);
-            Console.WriteLine("Địa chỉ: " + diaChi);
-            Console.WriteLine("Điểm toán : " + diemToan);
-            Console.WriteLine("Điểm tin : " + diemTin);
-            Console.WriteLine("Điểm anh : " + diemAnh);
-
+            Console.WriteLine(">> Họ tên : " + hoTen);
+            Console.WriteLine(">> Địa chỉ: " + diaChi);
+            Console.WriteLine(">> Điểm toán : " + diemToan);
+            Console.WriteLine(">> Điểm tin : " + diemTin);
+            Console.WriteLine(">> Điểm anh : " + diemAnh);
+            Console.ReadLine();
         }
     }
 }
