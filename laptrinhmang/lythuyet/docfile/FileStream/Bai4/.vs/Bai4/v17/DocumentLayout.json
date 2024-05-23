@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\C#\\laptrinhmang\\lythuyet\\Bai4\\",
+  "WorkspaceRootPath": "D:\\C#\\laptrinhmang\\lythuyet\\docfile\\FileStream\\Bai4\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6B2DBD49-8B55-46AB-BF08-99EDD9222AE0}|Bai4.csproj|d:\\c#\\laptrinhmang\\lythuyet\\bai4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6B2DBD49-8B55-46AB-BF08-99EDD9222AE0}|Bai4.csproj|d:\\c#\\laptrinhmang\\lythuyet\\docfile\\filestream\\bai4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6B2DBD49-8B55-46AB-BF08-99EDD9222AE0}|Bai4.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\C#\\laptrinhmang\\lythuyet\\Bai4\\Program.cs",
+              "DocumentMoniker": "D:\\C#\\laptrinhmang\\lythuyet\\docfile\\FileStream\\Bai4\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "D:\\C#\\laptrinhmang\\lythuyet\\Bai4\\Program.cs",
+              "ToolTip": "D:\\C#\\laptrinhmang\\lythuyet\\docfile\\FileStream\\Bai4\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAcAAAAAAAAAAAAUwB4AAAAfAAAA",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAcwB4AAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-17T10:25:49.126Z",
               "EditorCaption": ""

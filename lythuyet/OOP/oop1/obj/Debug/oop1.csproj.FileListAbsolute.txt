@@ -1,0 +1,7 @@
+D:\C#\lythuyet\OOP\oop1\bin\Debug\oop1.exe.config
+D:\C#\lythuyet\OOP\oop1\bin\Debug\oop1.exe
+D:\C#\lythuyet\OOP\oop1\bin\Debug\oop1.pdb
+D:\C#\lythuyet\OOP\oop1\obj\Debug\oop1.csproj.AssemblyReference.cache
+D:\C#\lythuyet\OOP\oop1\obj\Debug\oop1.csproj.CoreCompileInputs.cache
+D:\C#\lythuyet\OOP\oop1\obj\Debug\oop1.exe
+D:\C#\lythuyet\OOP\oop1\obj\Debug\oop1.pdb

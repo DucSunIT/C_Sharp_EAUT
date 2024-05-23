@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C#\\lythuyet\\OOP\\oop1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0A69CC54-3AAB-47A9-B516-B0ADA1514FBD}|oop1.csproj|d:\\c#\\lythuyet\\oop\\oop1\\sinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A69CC54-3AAB-47A9-B516-B0ADA1514FBD}|oop1.csproj|solutionrelative:sinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A69CC54-3AAB-47A9-B516-B0ADA1514FBD}|oop1.csproj|d:\\c#\\lythuyet\\oop\\oop1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A69CC54-3AAB-47A9-B516-B0ADA1514FBD}|oop1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A69CC54-3AAB-47A9-B516-B0ADA1514FBD}|oop1.csproj|d:\\c#\\lythuyet\\oop\\oop1\\hocsinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A69CC54-3AAB-47A9-B516-B0ADA1514FBD}|oop1.csproj|solutionrelative:hocsinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HocSinh.cs",
+              "DocumentMoniker": "D:\\C#\\lythuyet\\OOP\\oop1\\HocSinh.cs",
+              "RelativeDocumentMoniker": "HocSinh.cs",
+              "ToolTip": "D:\\C#\\lythuyet\\OOP\\oop1\\HocSinh.cs",
+              "RelativeToolTip": "HocSinh.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAwAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T16:09:09.525Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SinhVien.cs",
+              "DocumentMoniker": "D:\\C#\\lythuyet\\OOP\\oop1\\SinhVien.cs",
+              "RelativeDocumentMoniker": "SinhVien.cs",
+              "ToolTip": "D:\\C#\\lythuyet\\OOP\\oop1\\SinhVien.cs",
+              "RelativeToolTip": "SinhVien.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAkwGgAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T14:59:00.273Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C#\\lythuyet\\OOP\\oop1\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\C#\\lythuyet\\OOP\\oop1\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAApwC4AAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T14:58:41.654Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

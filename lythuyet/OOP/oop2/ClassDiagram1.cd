@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="oop2.NhanVien">
+    <Position X="3.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAABAAAAAAAAAQAAAAABAACAAAABAAAAAQAAAAAAA=</HashCode>
+      <FileName>NhanVien.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="oop2.NhanVienDiCa">
+    <Position X="5.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAEAAAABA=</HashCode>
+      <FileName>NhanVienDiCa.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="oop2.NhanVienHanhChinh">
+    <Position X="1" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>NhanVienHanhChinh.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

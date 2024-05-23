@@ -1,0 +1,10 @@
+D:\C#\lythuyet\WindowsForm\Bai8-baitap2\bin\Debug\Bai8-baitap2.exe.config
+D:\C#\lythuyet\WindowsForm\Bai8-baitap2\bin\Debug\Bai8-baitap2.exe
+D:\C#\lythuyet\WindowsForm\Bai8-baitap2\bin\Debug\Bai8-baitap2.pdb
+D:\C#\lythuyet\WindowsForm\Bai8-baitap2\obj\Debug\Bai8-baitap2.csproj.AssemblyReference.cache
+D:\C#\lythuyet\WindowsForm\Bai8-baitap2\obj\Debug\Bai8_baitap2.Form1.resources
+D:\C#\lythuyet\WindowsForm\Bai8-baitap2\obj\Debug\Bai8_baitap2.Properties.Resources.resources
+D:\C#\lythuyet\WindowsForm\Bai8-baitap2\obj\Debug\Bai8-baitap2.csproj.GenerateResource.cache
+D:\C#\lythuyet\WindowsForm\Bai8-baitap2\obj\Debug\Bai8-baitap2.csproj.CoreCompileInputs.cache
+D:\C#\lythuyet\WindowsForm\Bai8-baitap2\obj\Debug\Bai8-baitap2.exe
+D:\C#\lythuyet\WindowsForm\Bai8-baitap2\obj\Debug\Bai8-baitap2.pdb

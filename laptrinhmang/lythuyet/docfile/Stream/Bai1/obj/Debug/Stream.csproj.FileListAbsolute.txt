@@ -5,3 +5,10 @@ D:\C#\laptrinhmang\lythuyet\Stream\obj\Debug\Stream.csproj.AssemblyReference.cac
 D:\C#\laptrinhmang\lythuyet\Stream\obj\Debug\Stream.csproj.CoreCompileInputs.cache
 D:\C#\laptrinhmang\lythuyet\Stream\obj\Debug\Stream.exe
 D:\C#\laptrinhmang\lythuyet\Stream\obj\Debug\Stream.pdb
+D:\C#\laptrinhmang\lythuyet\docfile\Stream\Bai1\bin\Debug\Stream.exe.config
+D:\C#\laptrinhmang\lythuyet\docfile\Stream\Bai1\bin\Debug\Stream.exe
+D:\C#\laptrinhmang\lythuyet\docfile\Stream\Bai1\bin\Debug\Stream.pdb
+D:\C#\laptrinhmang\lythuyet\docfile\Stream\Bai1\obj\Debug\Stream.csproj.AssemblyReference.cache
+D:\C#\laptrinhmang\lythuyet\docfile\Stream\Bai1\obj\Debug\Stream.csproj.CoreCompileInputs.cache
+D:\C#\laptrinhmang\lythuyet\docfile\Stream\Bai1\obj\Debug\Stream.exe
+D:\C#\laptrinhmang\lythuyet\docfile\Stream\Bai1\obj\Debug\Stream.pdb
